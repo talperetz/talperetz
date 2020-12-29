@@ -17,6 +17,8 @@ Based and WFH in Los Angeles, occasionally in Tel Aviv.
   #### Super Tools
   <p>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spotify-000000?style=flat-square&logo=Spotify&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Typeform-000000?style=flat-square&logo=Typeform&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=Webflow&logoColor=white"/>
