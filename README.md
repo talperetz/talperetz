@@ -1,6 +1,11 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm the cto of [Magical](https://www.supertools.ai/). We are rebuilding the calendar for teams.
+TL;DR - I'm a full-stack problem solver focused on building a time machine.
+
+My superpower is building state-of-the-art experiences blazingly fast.
+I'm compelled by creating paradigm shifts, streamlining collaboration, and automating the boring stuff. I hate doing the same thing twice.
+I combine code, data, and ML/AI in order to create the future I want to see.
+Constantly iterating to become the best version of myself.
 
 Based and WFH in Los Angeles, occasionally in Tel Aviv.
 
