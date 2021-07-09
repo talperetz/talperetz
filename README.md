@@ -7,7 +7,7 @@ I'm compelled by creating paradigm shifts, streamlining collaboration, and autom
 I combine code, data, and ML/AI in order to create the future I want to see.
 Constantly iterating to become the best version of myself.
 
-Based and WFH in Los Angeles, occasionally in Tel Aviv.
+Work remotely from Los Angeles, occasionally in Tel Aviv.
 
 #### My Stack
 
