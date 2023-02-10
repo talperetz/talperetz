@@ -6,6 +6,6 @@
 
 ### Hey, my name is TP <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I write a [AI Entrepreneur Digest](https://aientrepreneur.news/), co-founded [Magical](http://magical.so/) and generally build products combining AI, code and design.
+I write [AI Entrepreneur Digest](https://aientrepreneur.news/) and generally build products combining AI, code and design. Previously, co-founder & CTO @[Magical](http://magical.so/)
 
 Work remotely from Los Angeles, occasionally in Tel Aviv.
