@@ -10,5 +10,3 @@
 
 #### I write [The AI Revolution Newsletter](https://airevolution.news/) and build products combining AI, code and design. 
 Previously, co-founder & CTO @[Magical](http://magical.so/)
-
-Work remotely from Los Angeles, occasionally in Tel Aviv.
