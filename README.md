@@ -7,4 +7,4 @@ Now, I'm democratizing AI to level the playing field for businesses of all sizes
 
 Helping startups punch above their weight at [AI & Human Labs](https://aihumanlabs.com/)
 
-[→ more about me](https://www.talperetz.com/)
+[…see more](https://www.talperetz.com/)
