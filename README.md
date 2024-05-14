@@ -2,9 +2,9 @@
 
 ***
 
-From pioneering Machine Learning in the Israeli Air Force to co-founding [Magical](http://magical.so/), my journey has been fuelled by tech's transformative force.
-Now, I'm democratizing AI to level the playing field for businesses of all sizes.
+I build AI products, help startups and VCs through [AI & Human Labs](https://aihumanlabs.com/)
+and always working on the next big thing
 
-Helping startups punch above their weight at [AI & Human Labs](https://aihumanlabs.com/)
+✨ Check out my new blog [Building AI Stuff](https://buildingaistuff.com/)
 
 […see more](https://www.talperetz.com/)
